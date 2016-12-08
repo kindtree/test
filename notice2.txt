@@ -9,4 +9,5 @@ function test(){
 }
 
 function one｛
+	echo '得到第二名';
 ｝
