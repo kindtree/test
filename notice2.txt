@@ -2,16 +2,3 @@ good notice2
 
 /**
  * [test description]
- * @return {[type]} [description]
- */
-function test(){
-	echo '这个一个测试方法相当了得';
-}
-
-function one｛
-	echo '得到第1名';
-	echo '得到第1.5名';
-	echo '得到第1.6名';
-	echo '得到第2名';
-	echo '得到第3名';
-｝
