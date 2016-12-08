@@ -1,2 +1,4 @@
 good notice2
-function test(){
+function test(){function test(){
+	echo '这个一个测试方法相当了得';
+}
