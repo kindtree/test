@@ -1,1 +1,2 @@
 good notice2
+function test(){
